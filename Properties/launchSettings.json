@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImmersiveEnvironment": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
